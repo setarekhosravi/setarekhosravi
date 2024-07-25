@@ -14,9 +14,8 @@ I'm Seyede Setare Khosravi, an Electrical Engineering (Control) student and Comp
 🔭 Interests: Computer Vision | Control Theory | Reinforcement Learning | Robotics | Machine Learning and Data Science <br>
 💬 Feel free to reach out via [📧 Email](mailto:strhkhosravi@gmail.com) or [🔗 LinkedIn](https://www.linkedin.com/in/setarekhosravi2001/). I am always eager to connect with fellow enthusiasts and professionals in the field, as I continue to learn and grow in the dynamic world of AI and robotics! 🤖✨
 
-<p align="center">
-  GitHub Stats:<br/>
-</p>
+GitHub Stats:<br/>
+
 <p align="center">
   ![](https://github-readme-streak-stats.herokuapp.com/?user=setarekhosravi&theme=dark&hide_border=false)<br/>
 </p>
