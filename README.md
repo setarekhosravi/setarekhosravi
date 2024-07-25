@@ -16,12 +16,15 @@ I'm Seyede Setare Khosravi, an Electrical Engineering (Control) student and Comp
 
 <p align="center">
   GitHub Stats:<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=setarekhosravi&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=setarekhosravi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
-  ---
-  [![](https://visitcount.itsvg.in/api?id=setarekhosravi&icon=0&color=0)](https://visitcount.itsvg.in)
-  
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </p>
+<p align="center">
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=setarekhosravi&theme=dark&hide_border=false)<br/>
+</p>
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=setarekhosravi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
+<p align="center">
+  [![](https://visitcount.itsvg.in/api?id=setarekhosravi&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
