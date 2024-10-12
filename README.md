@@ -4,7 +4,7 @@
 I'm Seyede Setare Khosravi, an Electrical Engineering (Control) student and Computer Vision Research Assistant at the Iran University of Science and Technology (IUST). My passion lies at the intersection of computer vision, robotics, and control systems, where I continually explore and innovate.
 </p>
 
-💼 Current Projects: Implementing Multi-Object Tracking and Single Object Tracking Algorithms for small-object tracking
+💼 Current Projects: Implementing Multi-Object Tracking and Single Object Tracking Algorithms for small-object tracking <br>
 🌱 Currently Learning: ROS | MLOps | Bayesian Filters | Reinforcement Learning | Optimal Control | NLP <br>
 ⚡ Tech Stack: Python | MATLAB/Simulink | C/C++ | OpenCV | PyTorch | Git | Linux <br>
 🔭 Interests: Computer Vision | Control Theory | Reinforcement Learning | Robotics | Machine Learning and Data Science <br>
