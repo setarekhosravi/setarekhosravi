@@ -1,7 +1,7 @@
 ### 💫 About Me:
 🔭 I'm currently working on: Multi-Object Tracking and Single Object Tracking algorithms<br>
 👥 I'm looking to collaborate on: Computer Vision and Robotics Systems projects<br>
-🌱 I'm currently learning: NLP,  Reinforcement Learning, Optimal Control, and ROS<br>
+🌱 I'm currently learning: Reinforcement Learning, Optimal Control, ROS, and NLP<br>
 💬 Ask me about: Computer Vision and Image Processing<br>
 
 ---
